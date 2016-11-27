@@ -1,0 +1,13 @@
+/* Empty. Add your own CSS if you like */
+.home{
+    background-color: #9966CC;
+    font-family: 'Pacifico', cursive;
+    font-size: 33px;
+    line-height: 40px;
+    color: whitesmoke; 
+    padding: 55% 10%;
+}
+
+.button-outline{
+    outline-width: 10px;
+}
